@@ -1,0 +1,11 @@
+ID , Initials , Name               , Age , Gender , Category
+01 , L        , Liam               , 23  , Male   , Expert
+02 , EO       , Emma Olivia        , 29  , Female , User
+03 , WA       , William Ava        , 34  , Male   , User
+04 , JI       , James Isabella     , 23  , Female , User
+05 , BC       , Benjamin Charlotte , 38  , Male   , Expert
+06 , L        , Lucas              , 33  , Male   , Expert
+07 , Ma       , Mason              , 29  , Male   , User
+08 , Mi       , Mia                , 29  , Female , Expert
+09 , O        , Oliver             , 29  , Male   , User
+10 , S        , Sophia             , 29  , Female , User
